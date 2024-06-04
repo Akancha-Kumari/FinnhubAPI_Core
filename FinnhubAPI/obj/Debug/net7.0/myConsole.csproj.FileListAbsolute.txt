@@ -1,0 +1,17 @@
+/Users/AbhishekKumar/Documents/Coding_Study/ASP.NET Core/FinnhubAPI/bin/Debug/net7.0/myConsole
+/Users/AbhishekKumar/Documents/Coding_Study/ASP.NET Core/FinnhubAPI/bin/Debug/net7.0/myConsole.deps.json
+/Users/AbhishekKumar/Documents/Coding_Study/ASP.NET Core/FinnhubAPI/bin/Debug/net7.0/myConsole.runtimeconfig.json
+/Users/AbhishekKumar/Documents/Coding_Study/ASP.NET Core/FinnhubAPI/bin/Debug/net7.0/myConsole.dll
+/Users/AbhishekKumar/Documents/Coding_Study/ASP.NET Core/FinnhubAPI/bin/Debug/net7.0/myConsole.pdb
+/Users/AbhishekKumar/Documents/Coding_Study/ASP.NET Core/FinnhubAPI/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/AbhishekKumar/Documents/Coding_Study/ASP.NET Core/FinnhubAPI/obj/Debug/net7.0/myConsole.csproj.AssemblyReference.cache
+/Users/AbhishekKumar/Documents/Coding_Study/ASP.NET Core/FinnhubAPI/obj/Debug/net7.0/myConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/AbhishekKumar/Documents/Coding_Study/ASP.NET Core/FinnhubAPI/obj/Debug/net7.0/myConsole.AssemblyInfoInputs.cache
+/Users/AbhishekKumar/Documents/Coding_Study/ASP.NET Core/FinnhubAPI/obj/Debug/net7.0/myConsole.AssemblyInfo.cs
+/Users/AbhishekKumar/Documents/Coding_Study/ASP.NET Core/FinnhubAPI/obj/Debug/net7.0/myConsole.csproj.CoreCompileInputs.cache
+/Users/AbhishekKumar/Documents/Coding_Study/ASP.NET Core/FinnhubAPI/obj/Debug/net7.0/myConsole.csproj.CopyComplete
+/Users/AbhishekKumar/Documents/Coding_Study/ASP.NET Core/FinnhubAPI/obj/Debug/net7.0/myConsole.dll
+/Users/AbhishekKumar/Documents/Coding_Study/ASP.NET Core/FinnhubAPI/obj/Debug/net7.0/refint/myConsole.dll
+/Users/AbhishekKumar/Documents/Coding_Study/ASP.NET Core/FinnhubAPI/obj/Debug/net7.0/myConsole.pdb
+/Users/AbhishekKumar/Documents/Coding_Study/ASP.NET Core/FinnhubAPI/obj/Debug/net7.0/myConsole.genruntimeconfig.cache
+/Users/AbhishekKumar/Documents/Coding_Study/ASP.NET Core/FinnhubAPI/obj/Debug/net7.0/ref/myConsole.dll
